@@ -1,0 +1,34 @@
+main{
+    margin: 0;
+}
+
+.representative {
+    display: flex;
+    justify-content: space-around;
+}
+
+.committees {
+    text-align: center;
+    width: 40%;
+    background-color: lightblue;
+    padding: 2em;
+    justify-content: space-around;
+    font-size: ; 
+    height: 15em;
+    margin:  0;
+    align-self: flex-start;
+}
+
+.image {
+    height: 325px;
+    text-align:center;
+}
+.text {
+    background-color: lightblue;
+    padding: 2em;
+    font-size: 1.5em;
+}
+
+.basic_info {
+    border: solid 5px darkblue;
+}
